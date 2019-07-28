@@ -1,3 +1,11 @@
+# Influencias
+
+https://stackoverflow.com/questions/50189589/angular-cli-6-where-to-put-library-dependencies
+
+https://www.youtube.com/watch?v=kTl291dDgqo
+
+
+
 # TestingPrimeng
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
